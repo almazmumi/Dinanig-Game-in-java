@@ -1,0 +1,5 @@
+ahm,244
+bader,150
+Ahmed,1050
+Khalid,900
+bader,0
